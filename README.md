@@ -19,7 +19,7 @@ This is the first implementation in what will soon become something much greater
 
 - Unreal Engine 4 : Used to modulate the 3D object in VR
 - Metashape : For 3D modeling
-- Python 3 : We did not necessarily fully implemented but Metashape has a python module that can be used to fully automate the image rendering process.
+- Python 3 
 - Oculus Go
 - Flyable Drone : Requires camera and autonomous implementation support
 
