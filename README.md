@@ -13,7 +13,7 @@ We want to create a full VR environment of an actual asset that exist in our rea
 
 The system can be used from analyzing destroyed environments to spectating a full 3D modeled human anatomy.
 
-This is the first implementation in what will soon become something much greater. We hope that in the future doctors, architects, and even firefighters. 
+This is the first implementation in what will soon become something much greater. We hope that in the future the use can expand from doctors, architects, to firefighters and other professions that involve in suppressing disasters. 
 
 # Tools we used:
 
