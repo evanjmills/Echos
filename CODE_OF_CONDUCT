@@ -1,1 +1,6 @@
-Anything goes.
+# CODE OF CONDUCT
+
+Please when contributing code keep it well documented.
+Do not try to directly alter our main branch and git rid of the code on it.
+When submitting the pull requests explain in detail what you have added to the project.
+Respect others contributions this is a community and we need to be respectful of everyones contributions.
